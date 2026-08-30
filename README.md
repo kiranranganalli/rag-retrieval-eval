@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.10-blue) ![Postgres](https://img.shields.io/badge/postgres-17-blue)
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
-![Postgres](https://img.shields.io/badge/postgres-17-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 curl -o LICENSE https://raw.githubusercontent.com/github/choosealicense.com/gh-pages/_licenses/mit.txt
