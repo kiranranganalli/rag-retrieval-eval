@@ -29,6 +29,25 @@ citation-faithfulness bug found after the retrieval numbers looked perfect.
 
 <img width="1350" height="825" alt="retrieval_comparison_chart" src="https://github.com/user-attachments/assets/e5ca39eb-a4ef-4ef6-9ec8-3f267cd250d6" />
 
+## Real Q&A
+
+Real output from `generate_answers.py`, running the full pipeline (hybrid
+search → rerank → cited answer) against the Copperleaf document:
+
+> **Q: What is the 2026 revenue target?**
+> A: The 2026 revenue target is $4.85 million [Chunk 5].
+
+> **Q: What is in the Smoked Trout Toast?**
+> A: The Smoked Trout Toast includes house-smoked trout, dill creme fraiche, pickled shallot, and rye [Chunk 18].
+
+> **Q: How often is free grinder calibration offered?**
+> A: Free grinder calibration is offered once per quarter [Chunk 32].
+
+> **Q: Which location can host private events?**
+> A: The location that can host private events is Harrow Street, specifically in The Cellar Room. Riverbend cannot host events [Chunk 42], [Chunk 63].
+>
+> *(Note: retrieval correctly surfaced the true source, Chunk 33, in its top 5 results — but the LLM cited different chunks instead. See [FINDINGS.md](FINDINGS.md) for the full citation-faithfulness investigation.)*
+
 
 | Stage | Recall@5 | Recall@20 | MRR | Avg latency |
 |---|---|---|---|---|
