@@ -1,5 +1,9 @@
 # RAG Retrieval Eval
 
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Postgres](https://img.shields.io/badge/postgres-17-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 A retrieval system built to measure — not just demo — how well different
 retrieval techniques find the right answer in a real document. Each stage
 adds one technique and gets scored on Recall@5, Recall@20, MRR, and latency,
