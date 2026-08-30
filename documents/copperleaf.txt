@@ -1,0 +1,1861 @@
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 1
+ COPPERLEAF KITCHEN &
+ ROASTERY
+ Complete Business Profile and Operations Reference
+ Copperleaf Hospitality Group LLC
+Document title
+Complete Business Profile and Operations Reference
+Revision
+7.2
+Issue date
+August 30, 2026
+Supersedes
+Revision 6.4, issued February 11, 2026
+Prepared by
+Priya Raghunathan, Director of Operations
+Approved by
+Marisol Vega, Managing Partner
+Review cycle
+Every 6 months, or after any menu or pricing change
+Distribution
+All salaried staff, shift leads, franchise inquiries, catering clients
+Next scheduled review
+February 27, 2027
+This document is the single source of truth for hours, menu pricing, catering packages, supplier terms, staffing structure,
+and customer-facing policies. Where a printed menu or a third-party listing conflicts with this document, this document
+governs. Staff should quote prices and policies from here.
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 2
+1. Business Overview
+Copperleaf Kitchen & Roastery is an independent farm-to-table cafe, scratch bakery, and small-batch
+coffee roastery operating two retail locations and one production warehouse in Brantley Heights and
+Riverbend, Oregon. The business serves breakfast, lunch, and dinner, runs a wholesale coffee program,
+and operates a full-service catering and private events arm.
+1.1 Company Snapshot
+ Field
+Detail
+Legal entity name
+Copperleaf Hospitality Group LLC
+Trading name
+Copperleaf Kitchen & Roastery
+Entity type
+Oregon limited liability company, member-managed
+Date founded
+March 14, 2016
+Founders
+Marisol Vega and Dev Anand Rao
+State business registry number
+OR-LLC-2016-448271
+Food service license
+BHC-FS-11934, issued by Brantley County Health
+Liquor license
+Class B beer and wine, license BH-BW-2019-0642
+Fiscal year end
+September 30
+FY2025 gross revenue
+$4.21 million
+FY2026 revenue target
+$4.85 million
+Total headcount
+47 (34 full time, 13 part time)
+Retail locations
+2 (Harrow Street flagship, Riverbend cafe)
+Production sites
+1 (Dunmore Road roastery and commissary)
+Combined indoor seating
+146 seats
+Average daily covers, both cafes
+610 on weekdays, 890 on weekends
+Primary POS system
+ToastPoint Pro, version 14.2
+Main phone
+(503) 555-0192
+General email
+hello@copperleafkitchen.example
+Website
+www.copperleafkitchen.example
+1.2 Mission and Positioning
+Copperleaf positions itself in the upper-middle casual segment. The average lunch ticket is $21.40 per
+guest and the average dinner ticket is $38.60 per guest, which places the business above fast-casual
+competitors and below the fine dining rooms downtown. The stated mission is to serve food built from
+ingredients sourced within 120 miles of the kitchen, roasted and baked on premises, at a price a neighbor
+can afford twice a week.
+1.3 What Makes the Business Different
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 3
+- Every loaf, pastry, and cracker is baked on site at the Dunmore Road commissary and delivered to both
+cafes by 6:15 AM daily.
+- All coffee is green-sourced through direct trade and roasted in house on a 15-kilogram Loring Smart
+Roast S15 Falcon.
+- The menu changes four times a year on a fixed seasonal calendar, with a rotating chef's counter tasting
+on the last Thursday of each month.
+- Roughly 68 percent of produce spend goes to five farms inside Brantley County.
+- A house loyalty program, Copperleaf Circle, carried 11,480 active members as of July 2026.
+1.4 Ownership Structure
+ Member
+Role
+Ownership
+Joined
+Marisol Vega
+Managing Partner, front of house and brand
+44%
+March 2016
+Dev Anand Rao
+Partner, executive chef and menu
+38%
+March 2016
+Helena Brandt
+Silent investor
+12%
+August 2018
+Employee option pool
+Reserved, unallocated
+6%
+January 2023
+2. History and Milestones
+Copperleaf began as a 900 square foot coffee bar with six tables. The bakery, the roastery, the second
+cafe, and the catering arm were each added later as separate revenue lines. The timeline below is the
+record used for press inquiries and anniversary marketing.
+Date
+Milestone
+March 14, 2016
+Original coffee bar opens at 412 Harrow Street with 4 employees.
+November 2016
+First full breakfast menu introduced. Seating expands to 38.
+June 2017
+Dev Anand Rao joins full time as executive chef after leaving Ferrow House.
+February 2018
+In-house bakery program begins in a rented night kitchen.
+August 2018
+Helena Brandt invests $310,000 for a 12 percent stake.
+May 2019
+Beer and wine license granted. Dinner service launches Thursday to Saturday.
+October 2020
+Pivot to a curbside model. Meal kits carry the business through the winter.
+April 2021
+Dunmore Road warehouse leased. Roasting moves in house.
+September 2022
+Riverbend cafe opens as the second retail location.
+March 2023
+Wholesale coffee program signs its first 6 accounts.
+July 2024
+Catering and private events becomes its own department with dedicated staff.
+January 2025
+Copperleaf Circle loyalty program launches.
+November 2025
+Harrow Street dining room remodel adds 22 seats and a chef's counter.
+June 2026
+Coffee subscription program crosses 900 active subscribers.
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 4
+3. Locations and Hours of Operation
+Copperleaf operates three sites. Only two are open to the general public for regular service. Hours differ
+between the two cafes and are not interchangeable. Staff answering the phone must confirm which
+location the caller means before quoting hours.
+3.1 Harrow Street Flagship
+ Field
+Detail
+Address
+412 Harrow Street, Brantley Heights, Oregon 97214
+Phone
+(503) 555-0192
+Opened
+March 14, 2016
+Indoor seats
+96
+Patio seats
+34, open April through October, weather permitting
+Private dining room
+The Cellar Room, seats 24 seated or 40 standing
+Parking
+18 dedicated spaces behind the building, plus metered street parking
+Service style
+Counter order before 11:00 AM, full table service after
+Manager on duty
+Tomas Iglesias, general manager
+Harrow Street weekly hours
+ Day
+Open
+Close
+Kitchen closes
+Notes
+Monday
+7:00 AM
+9:00 PM
+8:30 PM
+No dinner service, cafe menu only
+Tuesday
+7:00 AM
+9:00 PM
+8:30 PM
+No dinner service, cafe menu only
+Wednesday
+7:00 AM
+9:00 PM
+8:30 PM
+No dinner service, cafe menu only
+Thursday
+7:00 AM
+9:00 PM
+8:30 PM
+Dinner service from 5:00 PM
+Friday
+7:00 AM
+10:00 PM
+9:15 PM
+Dinner service from 5:00 PM
+Saturday
+8:00 AM
+10:00 PM
+9:15 PM
+Dinner service from 5:00 PM
+Sunday
+8:00 AM
+3:00 PM
+2:30 PM
+Brunch menu only, no dinner
+3.2 Riverbend Cafe
+ Field
+Detail
+Address
+88 Kestrel Lane, Riverbend, Oregon 97009
+Phone
+(503) 555-0244
+Opened
+September 9, 2022
+Indoor seats
+50
+Patio seats
+None. Two benches at the entrance are public property.
+Private dining room
+None. Riverbend cannot host private events.
+Parking
+Shared lot with Kestrel Lane Books, 40 spaces, first come first served
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 5
+Field
+Detail
+Service style
+Counter order at all times
+Manager on duty
+Anaya Whitfield, cafe manager
+Riverbend weekly hours
+ Day
+Open
+Close
+Kitchen closes
+Notes
+Monday
+Closed
+Closed
+Closed
+Riverbend is closed every Monday
+Tuesday
+7:30 AM
+6:00 PM
+5:30 PM
+Breakfast and lunch only
+Wednesday
+7:30 AM
+6:00 PM
+5:30 PM
+Breakfast and lunch only
+Thursday
+7:30 AM
+6:00 PM
+5:30 PM
+Breakfast and lunch only
+Friday
+7:30 AM
+6:00 PM
+5:30 PM
+Breakfast and lunch only
+Saturday
+8:00 AM
+4:00 PM
+3:30 PM
+Weekend brunch menu
+Sunday
+8:00 AM
+4:00 PM
+3:30 PM
+Weekend brunch menu
+3.3 Dunmore Road Roastery and Commissary
+ Field
+Detail
+Address
+2201 Dunmore Road, Unit C, Brantley Heights, Oregon 97218
+Phone
+(503) 555-0311
+Function
+Coffee roasting, bakery production, catering prep, dry goods storage
+Square footage
+7,400
+Production hours
+Monday to Friday, 4:00 AM to 2:00 PM
+Bakery shift
+Monday to Sunday, 2:00 AM to 10:00 AM
+Public access
+Closed to the public except Saturday cupping, 10:00 AM to 1:00 PM
+Saturday cupping
+Free, walk-in, limited to 14 people per session
+Roaster
+Loring S15 Falcon, 15 kg capacity, installed April 2021
+Weekly roast volume
+1,850 pounds green, average across FY2026 to date
+3.4 Holiday Schedule
+ Holiday
+Harrow Street
+Riverbend
+Roastery
+New Year's Day, January 1
+Closed
+Closed
+Closed
+Martin Luther King Jr. Day
+Normal hours
+Normal hours
+Closed
+Easter Sunday
+8:00 AM to 3:00 PM
+Closed
+Closed
+Memorial Day
+8:00 AM to 4:00 PM
+Closed
+Closed
+Independence Day, July 4
+8:00 AM to 2:00 PM
+8:00 AM to 2:00 PM
+Closed
+Labor Day
+8:00 AM to 4:00 PM
+Closed
+Closed
+Thanksgiving Day
+Closed
+Closed
+Closed
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 6
+Holiday
+Harrow Street
+Riverbend
+Roastery
+Day after Thanksgiving
+7:00 AM to 3:00 PM
+Closed
+Closed
+Christmas Eve, December 24
+7:00 AM to 2:00 PM
+7:30 AM to 1:00 PM
+Closed
+Christmas Day, December 25
+Closed
+Closed
+Closed
+New Year's Eve, December 31
+7:00 AM to 11:00 PM
+7:30 AM to 4:00 PM
+Closed
+Weather closures are decided by the managing partner before 5:00 AM and posted to the website banner, the Copperleaf
+Circle app, and both voicemail greetings. Staff are paid a minimum of three hours if a closure is announced after they have
+already reported for a shift.
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 7
+4. Menu
+The Copperleaf menu is organized into six service periods. Prices below are the Harrow Street prices.
+Riverbend charges the same price for every shared item, with the exception of the Riverbend-only items
+listed in section 4.6. Allergen codes are: G gluten, D dairy, N tree nuts, P peanuts, S soy, E egg, F fish, SH
+shellfish, V vegetarian, VG vegan.
+4.1 Breakfast
+Breakfast is served from open until 11:30 AM Monday through Friday, and until 1:00 PM on Saturday and
+Sunday. After the cutoff the kitchen switches fully to the lunch board and will not fire breakfast tickets, with
+the single exception of the Copperleaf Biscuit, which stays available all day.
+Item
+Description
+Price
+Allergens
+Copperleaf Biscuit
+Buttermilk biscuit, maple-fennel sausage, aged white
+cheddar, chili honey
+$11.50
+G, D, E
+Harrow Hash
+Crisped potato, braised short rib, two eggs any style,
+horseradish crema
+$16.25
+D, E
+Orchard Oats
+Steel-cut oats, roasted pear, toasted hazelnut, brown
+butter, cream
+$10.00
+N, D, G
+Green Plate
+Soft scrambled eggs, blistered greens, herbed labneh,
+seeded toast
+$14.75
+D, E, G, V
+Smoked Trout Toast
+House-smoked trout, dill creme fraiche, pickled shallot,
+rye
+$15.50
+F, D, G
+Vega Scramble
+Turmeric chickpea scramble, charred tomato, avocado,
+sourdough
+$13.25
+G, VG
+Sourdough French
+Toast
+Thick-cut sourdough, vanilla custard, seasonal
+compote, whipped cream
+$14.00
+G, D, E, V
+Two Egg Simple
+Two eggs any style, choice of toast, choice of side
+$9.75
+E, G
+Breakfast Grain Bowl
+Farro, roasted squash, soft egg, tahini, pomegranate
+$13.75
+G, E, S, V
+Kids Pancakes
+Two buttermilk pancakes, maple syrup, fruit cup
+$7.50
+G, D, E, V
+4.2 Lunch
+Lunch runs from 11:30 AM to 4:00 PM at Harrow Street and from 11:00 AM to close at Riverbend. Every
+sandwich comes with one side. Substituting the soup of the day as a side adds $2.50.
+Item
+Description
+Price
+Allergens
+Copperleaf Burger
+Grass-fed beef, aged cheddar, house pickle, secret
+sauce, milk bun
+$18.50
+G, D, E, S
+Mushroom Melt
+Roasted maitake, taleggio, caramelized onion,
+sourdough
+$16.00
+G, D, V
+Roast Chicken
+Sandwich
+Herb-roasted chicken, aioli, arugula, lemon, ciabatta
+$16.75
+G, E
+Beet Reuben
+Salt-roasted beet, gruyere, sauerkraut, russian
+dressing, rye
+$15.25
+G, D, E, V
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 8
+Item
+Description
+Price
+Allergens
+Kestrel Salad
+Little gem, radish, cucumber, herbs, buttermilk dressing
+$12.50
+D, V
+Farro and Squash Bowl
+Farro, delicata squash, kale, pepita, maple vinaigrette
+$15.00
+G, VG
+Soup and Half
+Sandwich
+Cup of the daily soup with a half of any sandwich
+$14.50
+Varies
+Tuna Nicoise Plate
+Olive oil tuna, green bean, egg, potato, olive, mustard
+vinaigrette
+$18.00
+F, E
+Grilled Cheese
+Three cheese blend on country white
+$11.00
+G, D, V
+Kids Grilled Cheese
+Cheddar on country white, fruit cup
+$7.00
+G, D, V
+4.3 Dinner
+Dinner is served at the Harrow Street location only, Thursday through Saturday from 5:00 PM. Riverbend
+does not serve dinner on any day. The dinner menu changes with the seasonal calendar in section 5.
+Items below are the summer 2026 menu, in effect from June 2, 2026 to September 7, 2026.
+Item
+Description
+Price
+Allergens
+Charred Bread and
+Cultured Butter
+Starter, house levain, sea salt
+$7.00
+G, D, V
+Chilled Corn Soup
+Sweet corn, creme fraiche, basil oil, chili crisp
+$13.00
+D, V
+Tomato and Stone Fruit
+Heirloom tomato, peach, burrata, torn basil, aged
+balsamic
+$17.50
+D, V
+Grilled Little Gems
+Lettuce, anchovy dressing, parmesan, sourdough
+crumb
+$14.00
+F, D, G
+Hand-Cut Pasta
+Summer squash, ricotta salata, mint, brown butter
+$26.00
+G, D, E, V
+Coal-Roasted Chicken
+Half chicken, sweet corn succotash, jus
+$34.00
+D
+Wood-Grilled Steelhead
+Steelhead trout, cucumber, dill, buttermilk
+$36.50
+F, D
+Dry-Aged Ribeye
+16 ounce ribeye for two, bone marrow butter, herb
+salad
+$78.00
+D
+Braised Bean Cassoulet
+White beans, summer vegetables, herb breadcrumb
+$25.00
+G, VG
+Chef's Counter Tasting
+Seven courses, last Thursday monthly, reservation
+required
+$95.00
+Varies
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 9
+4.4 Bakery Counter
+The bakery case is stocked at 6:15 AM and restocked once at 1:00 PM on weekdays. Whole loaves sell
+out most Saturdays before 11:00 AM. Loaves can be reserved by calling either cafe before 4:00 PM the
+previous day.
+Item
+Price
+Notes
+Allergens
+Country Levain, whole loaf
+$9.00
+Baked daily, 1,200 gram loaf
+G, VG
+Seeded Rye, whole loaf
+$10.50
+Baked Tuesday, Thursday, Saturday only
+G, VG
+Milk Bread, whole loaf
+$8.50
+Baked daily
+G, D, E
+Butter Croissant
+$4.75
+Laminated over 3 days
+G, D
+Almond Croissant
+$5.75
+Made from day-old croissants
+G, D, N, E
+Morning Bun
+$5.25
+Orange sugar, weekends only
+G, D, E
+Kouign-Amann
+$5.50
+Limit 25 per day per location
+G, D
+Seasonal Galette, slice
+$6.50
+Fruit changes with the season
+G, D, E, V
+Chocolate Rye Cookie
+$4.00
+Best seller, 1,100 sold weekly
+G, D, E, V
+Gluten-Free Olive Oil Cake
+$6.00
+Baked in a shared kitchen
+D, E, N, V
+4.5 Drinks
+ Drink
+12 oz
+16 oz
+Notes
+Drip Coffee
+$3.75
+$4.25
+Free refill for dine-in guests
+Cold Brew
+$5.00
+$5.75
+18 hour steep, Dunmore Blend
+Espresso, double
+$3.50
+n/a
+Single origin rotates weekly
+Cortado
+$4.50
+n/a
+Served at 4 oz
+Latte
+$5.25
+$6.00
+Oat, soy, almond at no extra charge
+Cappuccino
+$5.00
+n/a
+Traditional, 6 oz
+Mocha
+$6.00
+$6.75
+Single-origin Ecuadorian chocolate
+Matcha Latte
+$6.25
+$7.00
+Ceremonial grade from Uji
+Hot Chocolate
+$5.50
+$6.25
+Kids size $3.50
+Loose Leaf Tea
+$4.25
+$4.75
+Eight varieties, see tea card
+House Lemonade
+$4.50
+$5.25
+Rotates seasonally
+Draft Beer
+$8.00
+n/a
+Four Oregon taps, 16 oz pour
+Wine by the Glass
+$12.00
+n/a
+Nine by the glass, all Pacific Northwest
+Wine Bottle, average
+$52.00
+n/a
+List runs $38 to $145
+4.6 Riverbend-Only Items
+Riverbend carries five items that Harrow Street does not, developed for the smaller kitchen and the
+neighborhood's heavier grab-and-go traffic.
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 10
+Item
+Description
+Price
+Kestrel Breakfast Wrap
+Egg, black bean, cotija, salsa verde, flour tortilla
+$10.50
+Riverbend Chopped Salad
+Salami, chickpea, provolone, pepperoncini, red wine
+vinaigrette
+$13.50
+Porchetta Sandwich
+Slow-roasted pork, salsa verde, arugula, ciabatta
+$17.00
+Cold Brew Float
+Cold brew, vanilla soft serve, cocoa nib
+$8.00
+Half-Loaf Levain
+Smaller loaf sized for one or two people
+$5.25
+4.7 Sides, Add-Ons, and Modifiers
+ Modifier
+Price
+Side salad, house green
+$5.00
+Side of fries
+$5.50
+Cup of daily soup
+$6.50
+Add one egg
+$2.50
+Add avocado
+$3.00
+Add bacon or sausage
+$4.00
+Gluten-free bread swap
+$2.00
+Extra espresso shot
+$1.25
+House-made syrup, per pump
+$0.75
+To-go packaging fee, catering only
+$0.50 per item
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 11
+5. Seasonal Menu Calendar
+The kitchen runs four menu changes per year on fixed dates. Menu development begins eight weeks
+before each changeover. Printed menus are ordered four weeks out from Ridgeline Print Co. and the POS
+is updated the night before the switch.
+Season
+In effect
+Anchor ingredients
+Menu items
+replaced
+Spring
+March 3 to June 1
+Asparagus, peas, rhubarb, spring lamb, morel
+9 of 22
+Summer
+June 2 to September 7
+Tomato, stone fruit, corn, steelhead, basil
+11 of 22
+Autumn
+September 8 to
+November 30
+Squash, apple, mushroom, pork, chestnut
+10 of 22
+Winter
+December 1 to March 2
+Root vegetables, citrus, beef, brassica,
+chicory
+8 of 22
+5.1 Recurring Events
+ Event
+When
+Price
+Capacity
+Chef's Counter Tasting
+Last Thursday of each month, 6:30 PM
+$95 per guest
+12 seats
+Saturday Cupping
+Every Saturday, 10:00 AM to 1:00 PM,
+roastery
+Free
+14 per session
+Bread Class
+Second Sunday, monthly, 9:00 AM
+$85 per person
+10 students
+Wine Dinner
+First Tuesday of the quarter, 6:00 PM
+$120 per guest
+34 seats
+Kids Bake Along
+Third Saturday, 3:00 PM, Riverbend
+$25 per child
+16 children
+Neighbor Night
+Every Wednesday, 4:00 PM to close
+20% off entrees
+Walk-in
+6. Coffee Roastery and Wholesale
+The roastery is a separate profit center. It supplies both cafes, a wholesale book of 23 accounts, an online
+retail store, and a subscription program. Green coffee is bought on six-month forward contracts through
+two importers, Cascade Green Traders and Meridian Coffee Imports.
+6.1 Current Coffee Lineup
+ Coffee
+Origin
+Roast
+Tasting notes
+12 oz retail
+Dunmore Blend
+Colombia and Brazil
+Medium
+Cocoa, toasted almond, red
+apple
+$18.00
+Harrow Espresso
+Guatemala and
+Ethiopia
+Medium-dar
+k
+Dark chocolate, cherry,
+molasses
+$20.00
+Kestrel Decaf
+Colombia, sugarcane
+process
+Medium
+Caramel, orange peel, malt
+$19.00
+Yirgacheffe Konga
+Ethiopia
+Light
+Jasmine, bergamot, peach
+$24.00
+Huila Los Naranjos
+Colombia
+Light-mediu
+m
+Panela, nectarine, honey
+$22.00
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 12
+Coffee
+Origin
+Roast
+Tasting notes
+12 oz retail
+Sumatra Gayo
+Wet-Hull
+Indonesia
+Dark
+Cedar, tobacco, brown sugar
+$21.00
+Cold Brew Blend
+Blend, seasonal
+Dark
+Fudge, walnut, low acid
+$17.00
+6.2 Subscription Tiers
+ Tier
+Frequency
+Volume
+Price
+Shipping
+Active as of
+July 2026
+Weekday
+Every 2 weeks
+One 12 oz bag
+$17.00 per shipment
+Free over
+$25
+384
+Everyday
+Weekly
+One 12 oz bag
+$16.00 per shipment
+Free
+297
+Household
+Weekly
+Two 12 oz bags
+$30.00 per shipment
+Free
+168
+Explorer
+Monthly
+Three rotating 8 oz
+bags
+$42.00 per shipment
+Free
+94
+Subscribers may pause, skip, or cancel at any time from the account page. Changes made after 11:59 PM on the Sunday
+before a roast date apply to the following cycle, not the current one. Roast days are Monday and Wednesday; subscription
+orders ship the same afternoon they are roasted.
+6.3 Wholesale Terms
+ Term
+Detail
+Minimum opening order
+20 pounds
+Standard wholesale price
+$13.20 per pound on blends, $16.40 per pound on single origin
+Volume break, 100 lb per month
+8 percent discount
+Volume break, 250 lb per month
+13 percent discount
+Payment terms
+Net 21 from invoice date
+Late fee
+1.5 percent per month on balances past 30 days
+Delivery
+Free within 25 miles on Tuesday and Friday routes
+Equipment support
+Free grinder calibration and one barista training session per quarter
+Current accounts
+23, of which 6 are hotels and 4 are corporate offices
+Largest account
+Ferrow House Hotel, 210 pounds per month
+Account manager
+Owen Castellanos, wholesale lead
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 13
+7. Catering and Private Events
+Catering became a standalone department in July 2024 and produced $712,000 in FY2025, or about 17
+percent of gross revenue. All catering is produced at the Dunmore Road commissary. Private events are
+hosted only in The Cellar Room at Harrow Street; Riverbend cannot host events.
+7.1 Catering Packages
+ Package
+Includes
+Price per
+guest
+Minimum
+guests
+Notice
+required
+Morning Table
+Pastry basket, fruit, yogurt, coffee
+service, juice
+$19.00
+12
+72 hours
+Boxed Lunch
+Sandwich, side, cookie, bottled drink,
+compostable box
+$26.00
+10
+48 hours
+Family Style Lunch
+Two mains, three sides, bread, salad,
+served on platters
+$38.00
+20
+5 business
+days
+Family Style Dinner
+Three mains, four sides, bread, salad,
+dessert
+$62.00
+20
+7 business
+days
+Grazing Table
+Cheese, charcuterie, seasonal
+produce, house breads
+$28.00
+25
+7 business
+days
+Full Service Dinner
+Plated four course, staffed, rentals
+coordinated
+$115.00
+30
+21 days
+Coffee Cart
+Barista, espresso machine, two hours
+of service
+$650 flat
+n/a
+10 business
+days
+7.2 Private Event Room Rates
+ Slot
+Day
+Room fee
+Food and beverage
+minimum
+Max guests
+Lunch, 11:00 AM to 2:00
+PM
+Monday to Thursday
+$300
+$900
+24 seated
+Lunch, 11:00 AM to 2:00
+PM
+Friday to Sunday
+$450
+$1,400
+24 seated
+Evening, 5:00 PM to 9:00
+PM
+Monday to
+Wednesday
+$500
+$1,800
+24 seated
+Evening, 5:00 PM to 10:00
+PM
+Thursday
+$650
+$2,600
+24 seated
+Evening, 5:00 PM to 10:30
+PM
+Friday to Saturday
+$900
+$4,200
+24 seated
+Standing reception
+Any day
+$700
+$3,000
+40 standing
+Full cafe buyout
+Sunday after 3:00
+PM only
+$1,500
+$8,000
+130
+7.3 Booking, Deposits, and Cancellation
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 14
+- A signed contract and a deposit of 25 percent of the estimated total confirm the date. The date is not
+held without both.
+- Final guest count is due 7 calendar days before the event. The count may rise after that but may not
+fall; clients are billed on the higher of the final count or the actual attendance.
+- Cancellation 30 or more days out: the deposit is fully refunded, less a $75 administrative fee.
+- Cancellation 15 to 29 days out: 50 percent of the deposit is refunded.
+- Cancellation 8 to 14 days out: the deposit is forfeited.
+- Cancellation 7 days or fewer: the full estimated total is charged.
+- A 20 percent service charge applies to all catering and private events. This is not a gratuity and is
+distributed across the event team per the tip policy in section 9.4.
+- Oregon has no state sales tax, so no sales tax is added. Corporate clients with approved credit may
+request Net 30 billing in place of a card on file.
+7.4 Catering Add-Ons
+ Add-on
+Price
+Event staff, per server per hour, 4 hour minimum
+$45.00
+Bartender, per hour, 4 hour minimum
+$55.00
+Delivery within 15 miles
+$65.00
+Delivery 15 to 30 miles
+$120.00
+China, glass, and flatware rental, per guest
+$14.00
+Linen, per table
+$22.00
+Cake cutting and plating, per guest
+$3.50
+Corkage, per 750 ml bottle
+$25.00
+Late breakdown past contracted end time, per 30 minutes
+$150.00
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 15
+8. Organization and Staffing
+Copperleaf employs 47 people across three sites. The leadership team meets Monday at 9:00 AM at
+Harrow Street. Department heads submit weekly numbers by Sunday at 8:00 PM.
+8.1 Leadership Team
+ Name
+Title
+Reports to
+Site
+Start date
+Marisol Vega
+Managing Partner
+Members
+Harrow Street
+March 2016
+Dev Anand Rao
+Executive Chef and Partner
+Members
+Dunmore Road
+June 2017
+Priya Raghunathan
+Director of Operations
+Marisol Vega
+Harrow Street
+May 2021
+Tomas Iglesias
+General Manager, Harrow
+Street
+Priya Raghunathan
+Harrow Street
+February
+2022
+Anaya Whitfield
+Cafe Manager, Riverbend
+Priya Raghunathan
+Riverbend
+August 2022
+Owen Castellanos
+Head Roaster and Wholesale
+Lead
+Dev Anand Rao
+Dunmore Road
+April 2021
+Frances Oduya
+Head Baker
+Dev Anand Rao
+Dunmore Road
+February
+2019
+Liam Fenwick
+Catering and Events Director
+Marisol Vega
+Dunmore Road
+July 2024
+Sofia Marchetti
+Beverage Director
+Tomas Iglesias
+Harrow Street
+March 2023
+Grace Okonkwo
+Finance and People Manager
+Marisol Vega
+Harrow Street
+January 2024
+8.2 Headcount by Department
+ Department
+Full time
+Part time
+Total
+Site
+Kitchen, Harrow Street
+9
+2
+11
+Harrow Street
+Front of house, Harrow Street
+6
+5
+11
+Harrow Street
+Riverbend cafe
+4
+4
+8
+Riverbend
+Bakery
+6
+1
+7
+Dunmore Road
+Roastery
+3
+0
+3
+Dunmore Road
+Catering and events
+3
+1
+4
+Dunmore Road
+Administration and finance
+3
+0
+3
+Harrow Street
+Total
+34
+13
+47
+All
+8.3 Standard Shift Structure
+ Shift
+Hours
+Applies to
+Typical staff on shift
+Bakery overnight
+2:00 AM to 10:00 AM
+Dunmore Road
+4 bakers, 1 lead
+Roasting
+6:00 AM to 2:00 PM
+Dunmore Road
+2 roasters
+Cafe opening
+6:15 AM to 2:15 PM
+Both cafes
+1 lead, 2 baristas, 2 cooks
+Mid
+10:30 AM to 6:30 PM
+Both cafes
+1 lead, 2 baristas, 3 cooks
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 16
+Shift
+Hours
+Applies to
+Typical staff on shift
+Dinner
+3:30 PM to close
+Harrow Street only
+1 manager, 4 servers, 5 kitchen
+Catering prep
+5:00 AM to 1:00 PM
+Dunmore Road
+2 to 5 depending on book
+8.4 Pay, Benefits, and Scheduling Rules
+ - Starting wage for baristas and line cooks is $19.50 per hour. Shift leads start at $23.00 and sous chefs
+at $27.50.
+- Schedules are posted 14 days in advance in Wheelhouse Scheduling. Shift swaps require manager
+approval at least 24 hours before the shift.
+- Employees who work 30 or more hours per week for two consecutive months become eligible for health
+coverage, with the company paying 70 percent of the employee premium.
+- Paid time off accrues at one hour for every 26 hours worked, capped at 96 hours per year.
+- All staff receive a 50 percent discount on food at both cafes, and one free 12 ounce bag of coffee each
+week.
+- Anyone who has worked at least 90 days may request a transfer between sites; transfers are granted
+based on business need and seniority.
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 17
+9. Customer Policies
+9.1 Reservations and Seating
+ - Reservations are accepted at Harrow Street for dinner service only, Thursday through Saturday, up to
+60 days in advance through the website or by phone.
+- Breakfast, lunch, and Sunday brunch are walk-in only at both locations. No exceptions are made for
+parties under 8.
+- Parties of 8 to 24 may book The Cellar Room under the private event terms in section 7.
+- A reserved table is held for 15 minutes past the reservation time before it is released.
+- Parties of 6 or more have an automatic 20 percent gratuity added to the check.
+- Reservations of 6 or more that no-show without 4 hours notice are charged $25 per seat to the card on
+file.
+- The patio is first come first served and cannot be reserved.
+9.2 Allergens and Dietary Accommodation
+ - The kitchen is not an allergen-free facility. Gluten, dairy, egg, tree nuts, peanuts, soy, fish, and shellfish
+are all present and cross-contact is possible.
+- Guests with a severe allergy should tell the server before ordering so the ticket is flagged and the item
+is fired on dedicated equipment where possible.
+- The gluten-free bread swap is prepared on a separate board with separate tools but is toasted in a
+shared oven.
+- Every menu item is coded in the POS with its allergen list. Staff must read from the POS rather than
+answering from memory.
+- Full ingredient decks for all items are kept in a binder at each host stand and in the shared drive folder
+Operations/Allergens.
+9.3 Payment, Refunds, and Gift Cards
+ Topic
+Policy
+Accepted payment
+All major cards, mobile wallets, Copperleaf gift cards, and cash
+Card minimum
+None
+Split checks
+Up to 4 ways at dinner, unlimited at the counter
+Remake policy
+Any dish or drink is remade once, no questions asked, no manager needed
+Refunds
+A shift lead may refund any check up to $75 without approval
+Refunds over $75
+Requires the general manager or director of operations
+Online order errors
+Refunded in full within 3 business days if reported within 48 hours
+Gift cards
+Sold in any amount from $10 to $500, never expire, no fees
+Gift card balance
+Checked at either cafe or on the website
+Lost gift card
+Replaced only if the original purchase receipt or card number is provided
+Gift cards for cash
+Not redeemable for cash except where state law requires
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 18
+9.4 Tips and Service Charges
+ - Counter tips are pooled per shift and split by hours worked, paid on the following payroll run.
+- Dinner service gratuities are pooled and split 68 percent front of house, 32 percent kitchen.
+- The 20 percent catering service charge is distributed as 55 percent to event staff, 30 percent to kitchen,
+and 15 percent to the events coordinator.
+- No portion of any tip or service charge is retained by the owners or managers.
+9.5 Copperleaf Circle Loyalty Program
+ Element
+Detail
+Launched
+January 21, 2025
+Active members, July 2026
+11,480
+Earn rate
+1 point per $1 spent, rounded down
+Reward threshold
+150 points earns a $12 credit
+Birthday reward
+One free pastry and one free drink, valid the birthday week
+Referral bonus
+75 points to each side once the referred member spends $25
+Point expiry
+Points expire 18 months after they are earned
+Tier upgrade
+Spending $600 in a rolling year unlocks Copper tier
+Copper tier perks
+Free size upgrade on any drink, early access to event tickets
+Program cost
+About 2.6 percent of loyalty-attached revenue
+Average member frequency
+3.1 visits per month versus 1.4 for non-members
+9.6 Other House Rules
+ - Well-behaved dogs are welcome on the Harrow Street patio and at the Riverbend entrance benches,
+but not inside either building. Service animals are welcome everywhere.
+- Outside food and drink is not permitted, except for a celebration cake with the $3.50 per guest cutting
+fee, and baby food or medically required items.
+- Wi-Fi is free. The network is Copperleaf-Guest and the password is printed on the table cards. Laptop
+use is asked to end by 11:30 AM on Saturday and Sunday at both cafes.
+- Large group study or work sessions of 5 or more are asked to move to Riverbend after 11:00 AM on
+weekends.
+- Lost and found items are held for 30 days at the host stand and then donated.
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 19
+10. Suppliers and Sourcing
+Copperleaf buys from 19 active vendors. Produce, dairy, and protein are bought direct wherever the
+volume supports it. Dry goods and paper come through a single broadline distributor to keep ordering
+simple. Total cost of goods sold ran 31.4 percent of revenue in FY2025.
+Vendor
+Category
+Delivery days
+Terms
+Annual spend
+Hollow Ridge Farm
+Produce, greens, herbs
+Tuesday, Friday
+Net 15
+$164,000
+Ashgrove Dairy
+Milk, cream, butter,
+yogurt
+Monday, Wednesday,
+Friday
+Net 15
+$121,000
+Bellamy Meats
+Beef, pork, lamb
+Wednesday
+Net 21
+$208,000
+Trailing Creek Poultry
+Chicken, eggs
+Tuesday, Friday
+Net 15
+$97,000
+Cape Alder Seafood
+Steelhead, trout, tuna
+Thursday
+Net 7
+$76,000
+Kestrel Mill
+Flour, whole grains
+Every other Monday
+Net 30
+$54,000
+Cascade Green Traders
+Green coffee
+Monthly, contracted
+Net 30
+$186,000
+Meridian Coffee Imports
+Green coffee, single
+origin
+Monthly, contracted
+Net 30
+$92,000
+Northline Broadline
+Dry goods, paper,
+chemicals
+Monday, Thursday
+Net 30
+$143,000
+Pinegate Beverage
+Beer, wine
+Wednesday
+Net 30
+$88,000
+Ridgeline Print Co.
+Menus, packaging, print
+As ordered
+Net 30
+$21,000
+10.1 Sourcing Standards
+ - Produce must be grown within 120 miles of Brantley Heights during the growing season, from April
+through October. Winter sourcing may extend to 400 miles.
+- All beef and pork is pasture raised with no routine antibiotics. Bellamy Meats is audited annually by the
+executive chef.
+- Seafood must carry a green or yellow rating from the Monterey Bay Seafood Watch list. Red-rated
+species are never purchased.
+- Green coffee is bought at a minimum of $3.10 per pound FOB, well above the commodity floor, and the
+price paid to the producer is printed on every retail bag.
+- Any vendor with two quality rejections in a rolling quarter goes on review with the executive chef and
+may be replaced.
+11. Operations and Systems
+11.1 Systems in Use
+ Function
+System
+Owner
+Monthly cost
+Point of sale
+ToastPoint Pro 14.2
+Tomas Iglesias
+$389
+Scheduling and time clock
+Wheelhouse Scheduling
+Grace Okonkwo
+$210
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 20
+Function
+System
+Owner
+Monthly cost
+Payroll and benefits
+Northstar Payroll
+Grace Okonkwo
+$462
+Accounting
+Ledgerline
+Grace Okonkwo
+$180
+Inventory and recipe
+costing
+PantryIQ
+Dev Anand Rao
+$275
+Online ordering and
+delivery
+In-house web plus two
+marketplaces
+Marisol Vega
+Commission
+based
+Reservations
+TableThread
+Tomas Iglesias
+$149
+Loyalty and email
+Circle Platform
+Marisol Vega
+$320
+Catering proposals
+EventDesk
+Liam Fenwick
+$135
+Coffee subscriptions
+RoastCart
+Owen Castellanos
+$99
+11.2 Delivery and Off-Premise
+ - Delivery is offered through two marketplace partners at Harrow Street and one at Riverbend.
+Marketplace commission runs 18 to 27 percent depending on the tier.
+- Menu prices on marketplace apps are set 15 percent above in-house prices to offset commission. This
+markup is disclosed on the app listing page.
+- Direct online pickup orders through the Copperleaf website carry no markup and no fee.
+- Delivery is cut off 45 minutes before kitchen close at both locations.
+- Off-premise, meaning delivery plus pickup plus catering, was 29 percent of FY2025 revenue.
+11.3 Daily Operating Checklist, Cafe
+ Time
+Task
+Owner
+6:15 AM
+Receive bakery delivery from Dunmore Road, count against the
+manifest
+Opening lead
+6:20 AM
+Calibrate espresso, pull and taste two shots, log the dose and yield
+Opening barista
+6:35 AM
+Temperature check all coolers, log any reading above 41 degrees
+F
+Opening lead
+6:45 AM
+Stock the pastry case, price check against the current menu
+revision
+Opening barista
+6:55 AM
+Count the drawer, confirm $300 starting bank
+Opening lead
+11:00 AM
+Mid-day line check, taste every sauce and dressing
+Sous chef
+1:00 PM
+Second bakery case restock, weekdays only
+Mid lead
+4:00 PM
+Waste log entry, record every discarded item by weight
+Mid lead
+Close minus 30
+Kitchen closes, begin breakdown and deep clean
+Closing chef
+Close
+Cash count, deposit prep, alarm set, camera check
+Closing manager
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 21
+12. Financial Snapshot
+Figures below are for fiscal year 2025, which ended September 30, 2025, unless stated otherwise. FY2026
+numbers are preliminary and unaudited.
+12.1 Revenue by Channel, FY2025
+ Channel
+Revenue
+Share of total
+Change vs FY2024
+Harrow Street dine-in
+$1,684,000
+40.0%
+Up 6.2%
+Riverbend dine-in
+$611,000
+14.5%
+Up 19.4%
+Catering and private events
+$712,000
+16.9%
+Up 41.0%
+Coffee wholesale
+$438,000
+10.4%
+Up 11.7%
+Coffee retail and subscription
+$296,000
+7.0%
+Up 27.3%
+Delivery and marketplace
+$284,000
+6.7%
+Down 3.1%
+Bakery wholesale
+$118,000
+2.8%
+Up 8.9%
+Classes and events tickets
+$67,000
+1.6%
+Up 14.2%
+Total
+$4,210,000
+100%
+Up 12.8%
+12.2 Cost Structure, FY2025
+ Line item
+Amount
+Percent of revenue
+Cost of goods sold
+$1,321,940
+31.4%
+Labor including payroll taxes
+$1,368,250
+32.5%
+Rent and occupancy
+$412,580
+9.8%
+Utilities
+$147,350
+3.5%
+Marketplace commissions
+$71,000
+1.7%
+Software and technology
+$27,900
+0.7%
+Marketing
+$92,620
+2.2%
+Repairs, maintenance, smallwares
+$88,410
+2.1%
+Insurance, licenses, professional fees
+$105,250
+2.5%
+Net operating profit
+$574,700
+13.6%
+12.3 Key Operating Metrics
+ Metric
+FY2024
+FY2025
+FY2026 to date
+Average lunch ticket
+$19.10
+$21.40
+$22.15
+Average dinner ticket
+$35.20
+$38.60
+$39.90
+Average weekday covers, both cafes
+548
+610
+637
+Average weekend covers, both cafes
+790
+890
+918
+Food cost percentage
+32.8%
+31.4%
+30.9%
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 22
+Metric
+FY2024
+FY2025
+FY2026 to date
+Labor cost percentage
+33.6%
+32.5%
+32.1%
+Staff turnover, annualized
+61%
+44%
+39%
+Waste as percent of food purchases
+4.9%
+3.6%
+3.2%
+Loyalty attach rate on tickets
+n/a
+38%
+47%
+Catering bookings per month, average
+9
+16
+21
+12.4 Seasonality
+Revenue peaks between May and August, driven by patio seating and the summer wedding and corporate
+event book. February is consistently the weakest month, running about 22 percent below the annual
+monthly average. The business holds a cash reserve equal to 90 days of operating expenses,
+approximately $890,000, to cover the winter trough and equipment failure.
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 23
+13. Marketing and Customers
+13.1 Customer Segments
+ Segment
+Share of revenue
+Typical visit
+What they buy
+Neighborhood regulars
+34%
+Weekday morning, 2 to 4
+times weekly
+Coffee, pastry, breakfast
+Remote workers
+18%
+Weekday 9:00 AM to 2:00
+PM
+Coffee, lunch, long stays
+Weekend brunch groups
+16%
+Saturday and Sunday, parties
+of 2 to 6
+Brunch, cocktails, pastry
+Dinner destination guests
+13%
+Thursday to Saturday
+evening
+Dinner, wine, tasting
+Corporate catering buyers
+12%
+Weekday, repeat monthly
+Boxed lunch, coffee cart
+Coffee enthusiasts
+7%
+Online and Saturday cupping
+Subscriptions, retail bags
+13.2 Channels and Spend
+ Channel
+FY2025 spend
+Notes
+Email through Circle Platform
+$9,200
+Weekly Thursday send, 41 percent open rate
+Instagram and organic social
+$14,600
+Two posts weekly, 26,400 followers
+Local print and neighborhood guides
+$11,300
+Two quarterlies and one street festival
+Paid search
+$18,400
+Mostly catering and private event keywords
+Community sponsorships
+$16,500
+Youth soccer, library series, farmers market
+Photography and content
+$22,620
+Seasonal shoots, four per year
+13.3 Current Strategic Priorities, FY2026
+ - Grow catering to 22 percent of revenue by hiring one additional event coordinator in Q2 and adding a
+second delivery van.
+- Push coffee subscriptions past 1,200 active subscribers by adding an Explorer tier gift option before the
+holiday season.
+- Reduce marketplace dependence by moving delivery guests to direct online ordering through a loyalty
+double-point offer on direct orders.
+- Open a third cafe in the Ferrow District, target lease signature by March 2027, target opening in Q1
+FY2028.
+- Cut food cost to below 30 percent through tighter portion control and a weekly waste review.
+14. Known Risks and Constraints
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 24
+Risk
+Impact
+Current mitigation
+Single commissary
+dependency
+A Dunmore Road outage stops bread
+and catering at both sites
+Backup agreement with Kestrel Mill kitchen,
+48 hour spin-up
+Harrow Street lease
+expiry
+Lease ends June 30, 2029, no
+renewal option signed
+Negotiation opens January 2028, budget set
+aside for a move
+Green coffee price
+volatility
+A 20 percent spike would add about
+$56,000 in annual cost
+Six month forward contracts and two importer
+relationships
+Kitchen labor scarcity
+Line cook roles average 34 days to fill
+Referral bonus of $500 and an internal cook
+training ladder
+Riverbend Monday
+closure
+Lost revenue estimated at $41,000
+per year
+Under review, a Monday coffee-only trial is
+planned for spring 2027
+Weather-dependent
+patio
+34 seats unavailable November
+through March
+Winter event programming and heavier
+catering push
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 25
+15. Frequently Asked Questions
+What time do you open on Sunday?
+Both cafes open at 8:00 AM on Sunday. Harrow Street closes at 3:00 PM and serves brunch only.
+Riverbend closes at 4:00 PM.
+Are you open on Mondays?
+Harrow Street is open every Monday from 7:00 AM to 9:00 PM. Riverbend is closed every Monday.
+Do you take reservations?
+Only for dinner at Harrow Street, Thursday through Saturday. Everything else is walk-in. Parties of 8 or
+more should book The Cellar Room as a private event.
+Can I book a private event at Riverbend?
+No. Riverbend has no private room and cannot host events. All private events are held in The Cellar Room
+at Harrow Street.
+How late can I order breakfast?
+Until 11:30 AM Monday through Friday, and until 1:00 PM on Saturday and Sunday. The Copperleaf
+Biscuit is the only breakfast item available all day.
+Do you serve dinner every night?
+No. Dinner is served Thursday, Friday, and Saturday from 5:00 PM, at Harrow Street only.
+Is there parking?
+Harrow Street has 18 dedicated spaces behind the building plus metered street parking. Riverbend shares
+a 40 space lot with Kestrel Lane Books.
+Do you have gluten-free options?
+Yes, including a gluten-free bread swap for $2.00 and a gluten-free olive oil cake. The kitchen is not an
+allergen-free facility and cross-contact is possible.
+Can I bring my own cake?
+Yes, for a $3.50 per guest cutting and plating fee.
+How far in advance do I need to order catering?
+It depends on the package. Boxed Lunch needs 48 hours, Morning Table needs 72 hours, family style
+needs 5 to 7 business days, and Full Service Dinner needs 21 days.
+What is your cancellation policy for events?
+Full deposit refund less a $75 fee if you cancel 30 or more days out, 50 percent back at 15 to 29 days, no
+refund at 8 to 14 days, and the full estimated total is charged inside 7 days.
+Do you add gratuity automatically?
+Yes for parties of 6 or more, at 20 percent. Catering and private events carry a 20 percent service charge.
+Can I bring my dog?
+Dogs are welcome on the Harrow Street patio and at the Riverbend benches, but not inside. Service
+animals are welcome anywhere.
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 26
+Do you sell your coffee beans?
+Yes, at both cafes and online. Retail bags run $17 to $24 for 12 ounces, and there are four subscription
+tiers starting at $16 per shipment.
+Can I tour the roastery?
+The roastery is closed to the public except for the free Saturday cupping from 10:00 AM to 1:00 PM, which
+is walk-in and limited to 14 people per session.
+Do gift cards expire?
+No. Copperleaf gift cards never expire and carry no fees.
+Is there Wi-Fi?
+Yes, free. The network is Copperleaf-Guest and the password is on the table cards. Laptop use is asked to
+end by 11:30 AM on weekends.
+Do you do wholesale bread?
+Yes. Bakery wholesale was $118,000 in FY2025. Contact the head baker, Frances Oduya, for current
+pricing and delivery days.
+
+Copperleaf Kitchen & Roastery  |  Internal Operations & Business Reference  |  Revision 7.2
+Page 27
+16. Contact Directory
+ Purpose
+Contact
+Email
+Phone
+General inquiries
+Front desk
+hello@copperleafkitchen.example
+(503) 555-0192
+Riverbend cafe
+Anaya Whitfield
+riverbend@copperleafkitchen.example
+(503) 555-0244
+Catering and events
+Liam Fenwick
+events@copperleafkitchen.example
+(503) 555-0277
+Coffee wholesale
+Owen Castellanos
+wholesale@copperleafkitchen.example
+(503) 555-0311
+Bakery wholesale
+Frances Oduya
+bakery@copperleafkitchen.example
+(503) 555-0318
+Press and media
+Marisol Vega
+press@copperleafkitchen.example
+(503) 555-0190
+Careers and hiring
+Grace Okonkwo
+jobs@copperleafkitchen.example
+(503) 555-0195
+Accounts payable
+Grace Okonkwo
+ap@copperleafkitchen.example
+(503) 555-0196
+Allergen questions
+Dev Anand Rao
+kitchen@copperleafkitchen.example
+(503) 555-0193
+Lost and found
+Host stand, Harrow
+Street
+hello@copperleafkitchen.example
+(503) 555-0192
+16.1 Document Control
+This document is maintained by the Director of Operations. Change requests should be emailed to
+operations@copperleafkitchen.example with the section number in the subject line. Approved changes are
+batched into the next revision unless a price or safety change requires an immediate reissue.
+Revision
+Date
+Summary of change
+Approved by
+7.2
+August 30, 2026
+Summer 2026 dinner menu, FY2026 metrics update,
+new risk register
+Marisol Vega
+7.1
+June 2, 2026
+Seasonal menu switch, subscription tier repricing
+Marisol Vega
+6.4
+February 11, 2026
+Loyalty tier addition, wholesale volume breaks revised
+Marisol Vega
+6.0
+September 15,
+2025
+FY2025 close, catering package restructure
+Marisol Vega
+5.3
+May 4, 2025
+Riverbend-only items added, patio policy clarified
+Priya
+Raghunathan
+End of document. Copperleaf Hospitality Group LLC. This profile is fictional reference material created for testing and
+demonstration purposes.
